@@ -26,9 +26,6 @@ This is a stand-alone Burp extension designed to create dynamic bambda filters b
 ![instructions.png](./images/instructions.png)
 Step 1 in the image above depicts data copied and pasted from xnl-h4ck3r's GAP-Burp-Extension with Sus params enabled.
 
-## Roadmap
-TBD...
-
 ## Contributing
 See CONTRIBUTING.md
 
